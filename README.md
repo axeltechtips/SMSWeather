@@ -8,3 +8,16 @@ Features:
     Daily updates: Get the weather delivered to your phone every morning.
     Simple and customizable: Easy to set up and configure for your location.
     Lightweight: Runs efficiently without draining your phone's resources.
+
+## How does it work?
+Well, in order to save costs on texting, we use Email to SMS. 
+
+
+All carriers have them. Check the email.md for your carrier's email.
+
+
+
+
+You would type in your phone number @ your carriers email, for example: 123456789@tmomail.net 
+
+    
